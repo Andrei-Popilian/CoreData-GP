@@ -223,7 +223,7 @@ A good rule will be:
 
 ## Contributing
 
-Feel free to contribute to this project by providing [ideas](https://github.com/Good-Practices/CoreData_Sample/issues) or opening [pull requests](https://github.com/Good-Practices/CoreData_Sample/pulls) with new good practices/tools or solving an existing issue.
+Feel free to contribute to this project by providing [ideas](https://github.com/Andrei-Popilian/CoreData-GP/issues) or opening [pull requests](https://github.com/Andrei-Popilian/CoreData-GP/pulls) with new good practices/tools or solving an existing issue.
 
 
 ## References
